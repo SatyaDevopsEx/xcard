@@ -30,5 +30,5 @@
       <url>http://ec2-13-232-13-156.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/xcard-snapshots/</url>
       <layout>legacy</layout>
     </snapshotRepository>
-     <distributionManagement>
+     </distributionManagement>
 </project>
